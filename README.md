@@ -1,5 +1,5 @@
 - Hi, I’m Sean Moaref
-- I’m interested in learning Cloud and API development.
+- I’m interested in Cloud and API development.
 - drop me a line at: sean@fixpos.com
 
 <!---

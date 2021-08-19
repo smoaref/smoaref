@@ -1,6 +1,6 @@
 - Hi, I’m Sean Moaref
-- I’m interested in Cloud and API development.
-- drop me a line at: sean@fixpos.com
+- I do Cloud and API development.
+- drop me a line at: smoaref@banter.co
 
 <!---
 smoaref/smoaref is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
